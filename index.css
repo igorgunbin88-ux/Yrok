@@ -1,0 +1,19 @@
+*{ 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;}
+
+.test {
+    background-color: red;
+    height: 200px;
+    width: 200px;
+    margin: 20px 10px;
+}
+.tedst2{
+    background-color: aqua;
+}
+.blco{
+    display: flex;
+    justify-content: center;
+}
+
